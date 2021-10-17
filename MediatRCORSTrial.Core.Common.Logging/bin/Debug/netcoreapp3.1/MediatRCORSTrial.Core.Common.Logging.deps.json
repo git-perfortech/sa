@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MediatRCORSTrial.Core.Common.Logging/1.0.0": {
+        "runtime": {
+          "MediatRCORSTrial.Core.Common.Logging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatRCORSTrial.Core.Common.Logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

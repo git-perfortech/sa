@@ -1,0 +1,3 @@
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Core.Common.PipelineBehaviour\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Core..PipelineBehaviors.csprojAssemblyReference.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Core.Common.PipelineBehaviour\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Core..PipelineBehaviors.AssemblyInfoInputs.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Core.Common.PipelineBehaviour\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Core..PipelineBehaviors.AssemblyInfo.cs

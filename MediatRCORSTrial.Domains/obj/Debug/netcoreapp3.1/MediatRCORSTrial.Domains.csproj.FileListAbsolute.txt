@@ -1,0 +1,9 @@
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.deps.json
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.AssemblyInfoInputs.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.AssemblyInfo.cs
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.csproj.CoreCompileInputs.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Domains\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Domains.csprojAssemblyReference.cache

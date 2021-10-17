@@ -1,0 +1,16 @@
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.deps.json
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.AssemblyInfoInputs.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.AssemblyInfo.cs
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.csproj.CoreCompileInputs.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.csprojAssemblyReference.cache
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Core.Common.Contracts.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Core.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Data.Entities.dll
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Data.Entities.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Core.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\bin\Debug\netcoreapp3.1\MediatRCORSTrial.Core.Common.Contracts.pdb
+C:\MetinSearchPresentationApp\MediatR and CQRS and MediatR's Pipeline Behaviors and FluentValidation\MediatRCORSTrial\MediatRCORSTrial.Queries\obj\Debug\netcoreapp3.1\MediatRCORSTrial.Queries.csproj.CopyComplete

@@ -1,0 +1,528 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Contracts\\MediatRCORSTrial.Data.Contracts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\MediatRCORSTrial.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\MediatRCORSTrial.Commands.csproj",
+        "projectName": "MediatRCORSTrial.Commands",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\MediatRCORSTrial.Commands.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\MediatRCORSTrial.Core.Responses.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\MediatRCORSTrial.Core.Responses.csproj"
+              },
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\MediatRCORSTrial.Queries.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\MediatRCORSTrial.Queries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj",
+        "projectName": "MediatRCORSTrial.Core.Common.Contracts",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\MediatRCORSTrial.Core.Responses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\MediatRCORSTrial.Core.Responses.csproj",
+        "projectName": "MediatRCORSTrial.Core.Responses",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\MediatRCORSTrial.Core.Responses.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Responses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\MediatRCORSTrial.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\MediatRCORSTrial.Core.csproj",
+        "projectName": "MediatRCORSTrial.Core",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\MediatRCORSTrial.Core.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core.Common.Contracts\\MediatRCORSTrial.Core.Common.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Contracts\\MediatRCORSTrial.Data.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Contracts\\MediatRCORSTrial.Data.Contracts.csproj",
+        "projectName": "MediatRCORSTrial.Data.Contracts",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Contracts\\MediatRCORSTrial.Data.Contracts.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\MediatRCORSTrial.Commands.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Commands\\MediatRCORSTrial.Commands.csproj"
+              },
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj",
+        "projectName": "MediatRCORSTrial.Data.Entities",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\MediatRCORSTrial.Core.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Core\\MediatRCORSTrial.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\MediatRCORSTrial.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\MediatRCORSTrial.Queries.csproj",
+        "projectName": "MediatRCORSTrial.Queries",
+        "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\MediatRCORSTrial.Queries.csproj",
+        "packagesPath": "C:\\Users\\metin.sunbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\metin.sunbul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\metin.sunbul\\Desktop\\MediatRCORSTrial\\MediatRCORSTrial.Data.Entities\\MediatRCORSTrial.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
